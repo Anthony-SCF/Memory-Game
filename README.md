@@ -1,4 +1,4 @@
-# JavaScript Memory Game — Bug Hunt (Project 2)
+# JavaScript Memory Game — Bug Hunt
 
 A debugging and code-correction project based on a JavaScript **Memory Card Matching Game**. Six bugs were identified, documented, and fixed — each tied to a specific JavaScript event concept from the course textbook. The corrected game is fully functional and playable in the browser.
 
